@@ -1,2 +1,2 @@
-# pizzaria-loja-de-roupa
+# loja-de-roupa
 PROJETO FEITO EM HTML CSS JAVASCRIPT
